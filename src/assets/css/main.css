@@ -7155,6 +7155,15 @@ span {
   border-color: #29323b;
 }
 
+.offcanvas .nav-item {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.offcanvas .nav-link {
+  padding: 20px 10px;
+  font-size: 16px;
+}
+
 /* Single Product Review Tab*/
 .fincan-review-tab .nav-tabs {
   justify-content: center;

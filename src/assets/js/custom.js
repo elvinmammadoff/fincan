@@ -486,6 +486,16 @@ jQuery(document).ready(function () {
         });
 
 
+        /*----------  Sidebar close link  ----------*/
+
+        $('.page-scroll').on('click', function () {
+        
+            $('.offcanvas, .offcanvas-backdrop').removeClass('show');
+            $('body').attr("style", "overflow: visible")
+
+        })
+
+
         /*----------  Quantity  ----------*/
 
         // $('.pro-qty').prepend('<span class="dec qtybtn">-</span>');
