@@ -3730,6 +3730,11 @@ margin-top: 24px;
   border: none;
 }
 
+.navbar-toggler:focus,
+.btn-close:focus {
+  box-shadow: none;
+}
+
 .navbar-toggler-icon {
   background-image: url('../image/burger-menu.png');
 }
