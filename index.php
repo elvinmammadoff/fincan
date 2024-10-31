@@ -91,41 +91,6 @@
                   </div>
                 </div>
               </nav>
-            <!-- <div class="row align-items-center">
-                <div class="col-lg-3 col-6 order-first">
-                    <div class="site-brand">
-                        <a href="/" class="brand_logo">
-                            <img src="src/assets/image/logo.png" alt="">
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-9 col-12 order-lg-2 position-mobile">
-                    <div class="mean-wrapper">
-                        <nav class="mean-active">
-                            <ul class="main-menu">
-                                <li class="menu-item">
-                                    <a href="#home" class="menu-link"><span>Home</span></a>
-                                </li>
-                                <li class="menu-item">
-                                    <a href="#about" class="link menu-link"><span>About</span></a>
-                                </li>
-                                <li class="menu-item">
-                                    <a href="#menus" class="link menu-link"><span>Menu</span></a>
-                                </li>
-                                <li class="menu-item">
-                                    <a href="#product" class="menu-link"><span>Product</span></a>
-                                </li>
-                                <li class="menu-item">
-                                    <a href="#gallery" class="menu-link"><span>Gallery</span></a>
-                                </li>
-                                <li class="menu-item">
-                                    <a href="#contact" class="link menu-link">Contact</a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-            </div> -->
         </div>
     </header>
 
