@@ -7,14 +7,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
+  <!-- Stylesheets -->
   <link rel="stylesheet" href="src/assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="src/assets/css/fontawesome.min.css" />
   <link rel="stylesheet" href="src/assets/css/ionicons.min.css">
   <link rel="stylesheet" href="src/assets/css/plugins.css" />
   <link rel="stylesheet" href="src/assets/css/main.css" />
 
+  <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="src/assets/image/favicon.ico">
 
+  <!-- Title -->
   <title>Fincan Coffee - Coffee Shop Bootstrap 5 Template</title>
 </head>
 
@@ -91,48 +94,13 @@
                   </div>
                 </div>
               </nav>
-            <!-- <div class="row align-items-center">
-                <div class="col-lg-3 col-6 order-first">
-                    <div class="site-brand">
-                        <a href="/" class="brand_logo">
-                            <img src="src/assets/image/logo.png" alt="">
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-9 col-12 order-lg-2 position-mobile">
-                    <div class="mean-wrapper">
-                        <nav class="mean-active">
-                            <ul class="main-menu">
-                                <li class="menu-item">
-                                    <a href="#home" class="menu-link"><span>Home</span></a>
-                                </li>
-                                <li class="menu-item">
-                                    <a href="#about" class="link menu-link"><span>About</span></a>
-                                </li>
-                                <li class="menu-item">
-                                    <a href="#menus" class="link menu-link"><span>Menu</span></a>
-                                </li>
-                                <li class="menu-item">
-                                    <a href="#product" class="menu-link"><span>Product</span></a>
-                                </li>
-                                <li class="menu-item">
-                                    <a href="#gallery" class="menu-link"><span>Gallery</span></a>
-                                </li>
-                                <li class="menu-item">
-                                    <a href="#contact" class="link menu-link">Contact</a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-            </div> -->
         </div>
     </header>
 
     <!-- Slider -->
     <div class="hero-area" id="home">
         <div class="banner-content-wrapper hero-slider-wrapper">
-            <div class="banner-content single-slide bg-image text-white" data-bgimage="src/assets/image/slider/slider-1.jpg">
+            <div class="banner-content single-slide bg-image text-white" data-bgimage="https://placehold.co/1920x1280">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-10 col-md-10">
@@ -146,7 +114,7 @@
                     </div>
                 </div>
             </div>
-            <div class="banner-content single-slide bg-image text-white" data-bgimage="src/assets/image/slider/slider-2.jpg">
+            <div class="banner-content single-slide bg-image text-white" data-bgimage="https://placehold.co/1920x1280">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-10 col-md-10">
@@ -160,7 +128,7 @@
                     </div>
                 </div>
             </div>
-            <div class="banner-content single-slide bg-image text-white" data-bgimage="src/assets/image/slider/slider-3.jpg">
+            <div class="banner-content single-slide bg-image text-white" data-bgimage="https://placehold.co/1920x1280">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-10">
@@ -249,7 +217,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="welcome_sig-image img-border-bottom wow position-relative fadeInLeft animated" data-animation="fadeInLeft" data-delay=".4s">
-                        <img src="src/assets/image/about/about-1.png" alt="">
+                        <img src="https://placehold.co/470x670" alt="">
                         <div class="welcome__icon">
                             <img src="src/assets/image/about/about-2.png" alt="img">   
                     </div>
@@ -287,35 +255,35 @@
 
                                 <div class="product__image">
                                     <div class="product-image-main">
-                                        <img id="zoom_03" src="src/assets/image/product/img1.jpg"
-                                            data-zoom-image="src/assets/image/product/img1.jpg" />
+                                        <img id="zoom_03" src="https://placehold.co/430x467"
+                                            data-zoom-image="https://placehold.co/430x467" />
                                     </div>
                                     <div id="product-view-gallary"
                                         class="product-view-slider product-view-standered-slider-2">
 
-                                        <a href="#" class="gallary-item" data-image="src/assets/image/product/img2.jpg"
-                                            data-zoom-image="src/assets/image/product/img2.jpg">
-                                            <img src="src/assets/image/product/img2.jpg" />
+                                        <a href="#" class="gallary-item" data-image="https://placehold.co/430x467"
+                                            data-zoom-image="https://placehold.co/430x467">
+                                            <img src="https://placehold.co/430x467" />
                                         </a>
 
-                                        <a href="#" class="gallary-item" data-image="src/assets/image/product/img3.jpg"
-                                            data-zoom-image="src/assets/image/product/img3.jpg">
-                                            <img src="src/assets/image/product/img3.jpg" />
+                                        <a href="#" class="gallary-item" data-image="https://placehold.co/430x467"
+                                            data-zoom-image="https://placehold.co/430x467">
+                                            <img src="https://placehold.co/430x467" />
                                         </a>
 
-                                        <a href="#" class="gallary-item" data-image="src/assets/image/product/img4.jpg"
-                                            data-zoom-image="src/assets/image/product/img4.jpg">
-                                            <img src="src/assets/image/product/img4.jpg" />
+                                        <a href="#" class="gallary-item" data-image="https://placehold.co/430x467"
+                                            data-zoom-image="https://placehold.co/430x467">
+                                            <img src="https://placehold.co/430x467" />
                                         </a>
 
-                                        <a href="#" class="gallary-item" data-image="src/assets/image/product/img5.jpg"
-                                            data-zoom-image="src/assets/image/product/img5.jpg">
-                                            <img src="src/assets/image/product/img5.jpg" />
+                                        <a href="#" class="gallary-item" data-image="https://placehold.co/430x467"
+                                            data-zoom-image="https://placehold.co/430x467">
+                                            <img src="https://placehold.co/430x467" />
                                         </a>
 
-                                        <a href="#" class="gallary-item" data-image="src/assets/image/product/img6.jpg"
-                                            data-zoom-image="src/assets/image/product/img6.jpg">
-                                            <img src="src/assets/image/product/img6.jpg" />
+                                        <a href="#" class="gallary-item" data-image="https://placehold.co/430x467"
+                                            data-zoom-image="https://placehold.co/430x467">
+                                            <img src="https://placehold.co/430x467" />
                                         </a>
 
                                     </div>
@@ -393,7 +361,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-1.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -412,7 +380,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-2.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -431,7 +399,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-3.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -450,7 +418,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-4.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -469,7 +437,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-5.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -488,7 +456,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-6.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -507,7 +475,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-7.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -526,7 +494,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-8.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -545,7 +513,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-1.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -564,7 +532,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-2.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -583,7 +551,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-3.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -602,7 +570,7 @@
                 <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                     <div class="meal-container">
                         <div class="meal-img">
-                            <img src="src/assets/image/shop/s-4.jpg" alt="img">
+                            <img src="https://placehold.co/80x86" alt="img">
                         </div>
                         <div class="meal-content">
                             <h5>
@@ -638,7 +606,7 @@
                         <div class="product__image">
                             <div class="hover-content">
                                 <a href="product-details-light.html" class="hover-image">
-                                    <img src="src/assets/image/product/img1.jpg" alt="">
+                                    <img src="https://placehold.co/264x287" alt="">
                                 </a>
                             </div>
                         </div>
@@ -668,7 +636,7 @@
                         <div class="product__image">
                             <div class="hover-content">
                                 <a href="product-details-light.html" class="hover-image">
-                                    <img src="src/assets/image/product/img2.jpg" alt="">
+                                    <img src="https://placehold.co/264x287" alt="">
                                 </a>
                             </div>
                         </div>
@@ -698,7 +666,7 @@
                         <div class="product__image">
                             <div class="hover-content">
                                 <a href="product-details-light.html" class="hover-image">
-                                    <img src="src/assets/image/product/img3.jpg" alt="">
+                                    <img src="https://placehold.co/264x287" alt="">
                                 </a>
                             </div>
                         </div>
@@ -728,7 +696,7 @@
                         <div class="product__image">
                             <div class="hover-content">
                                 <a href="product-details-light.html" class="hover-image">
-                                    <img src="src/assets/image/product/img4.jpg" alt="">
+                                    <img src="https://placehold.co/264x287" alt="">
                                 </a>
                             </div>
                         </div>
@@ -758,7 +726,7 @@
                         <div class="product__image">
                             <div class="hover-content">
                                 <a href="product-details-light.html" class="hover-image">
-                                    <img src="src/assets/image/product/img5.jpg" alt="">
+                                    <img src="https://placehold.co/264x287" alt="">
                                 </a>
                             </div>
                         </div>
@@ -788,7 +756,7 @@
                         <div class="product__image">
                             <div class="hover-content">
                                 <a href="product-details-light.html" class="hover-image">
-                                    <img src="src/assets/image/product/img6.jpg" alt="">
+                                    <img src="https://placehold.co/264x287" alt="">
                                 </a>
                             </div>
                         </div>
@@ -818,7 +786,7 @@
                         <div class="product__image">
                             <div class="hover-content">
                                 <a href="product-details-light.html" class="hover-image">
-                                    <img src="src/assets/image/product/img7.jpg" alt="">
+                                    <img src="https://placehold.co/264x287" alt="">
                                 </a>
                             </div>
                         </div>
@@ -859,33 +827,33 @@
             <div class="col-lg-8">
                 <div class="row no-gutters">
                     <div class="col-lg-4 col-md-4 col-sm-4 col-6 p-0">
-                        <a href="src/assets/image/gallery/gl-1.jpg" class="andro_ig-item gallery-popup">
-                            <img src="src/assets/image/gallery/gl-1.jpg" alt="ig">
+                        <a href="src/src/assets/image/640x427.png-1.jpg" class="andro_ig-item gallery-popup">
+                            <img src="src/assets/image/640x427.png" alt="ig">
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-6 p-0">
-                        <a href="src/assets/image/gallery/gl-2.jpg" class="andro_ig-item  gallery-popup">
-                            <img src="src/assets/image/gallery/gl-2.jpg" alt="ig">
+                        <a href="src/assets/image/640x427.png" class="andro_ig-item  gallery-popup">
+                            <img src="src/assets/image/640x427.png" alt="ig">
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-6 p-0">
-                        <a href="src/assets/image/gallery/gl-3.jpg" class="andro_ig-item  gallery-popup">
-                            <img src="src/assets/image/gallery/gl-3.jpg" alt="ig">
+                        <a href="src/assets/image/640x427.png" class="andro_ig-item  gallery-popup">
+                            <img src="src/assets/image/640x427.png" alt="ig">
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-6 p-0">
-                        <a href="src/assets/image/gallery/gl-4.jpg" class="andro_ig-item  gallery-popup">
-                            <img src="src/assets/image/gallery/gl-4.jpg" alt="ig">
+                        <a href="src/assets/image/640x427.png" class="andro_ig-item  gallery-popup">
+                            <img src="src/assets/image/640x427.png" alt="ig">
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-6 p-0">
-                        <a href="src/assets/image/gallery/gl-5.jpg" class="andro_ig-item  gallery-popup">
-                            <img src="src/assets/image/gallery/gl-5.jpg" alt="ig">
+                        <a href="src/assets/image/640x427.png" class="andro_ig-item  gallery-popup">
+                            <img src="src/assets/image/640x427.png" alt="ig">
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-6 p-0">
-                        <a href="src/assets/image/gallery/gl-6.jpg" class="andro_ig-item  gallery-popup">
-                            <img src="src/assets/image/gallery/gl-6.jpg" alt="ig">
+                        <a href="src/assets/image/640x427.png" class="andro_ig-item  gallery-popup">
+                            <img src="src/assets/image/640x427.png" alt="ig">
                         </a>
                     </div>
                 </div>
@@ -992,6 +960,7 @@
     </div>
 </div>
 
+<!-- JavaScripts -->
 <script src="src/assets/js/jquery.min.js"></script>
 <script src="src/assets/js/jquery-migrate-3.4.0.min.js"></script>
 <script src="src/assets/js/bootstrap.min.js"></script>

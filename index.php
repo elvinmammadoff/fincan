@@ -7,14 +7,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
+  <!-- Stylesheets -->
   <link rel="stylesheet" href="src/assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="src/assets/css/fontawesome.min.css" />
   <link rel="stylesheet" href="src/assets/css/ionicons.min.css">
   <link rel="stylesheet" href="src/assets/css/plugins.css" />
   <link rel="stylesheet" href="src/assets/css/main.css" />
 
+  <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="src/assets/image/favicon.ico">
 
+  <!-- Title -->
   <title>Fincan Coffee - Coffee Shop Bootstrap 5 Template</title>
 </head>
 
@@ -957,6 +960,7 @@
     </div>
 </div>
 
+<!-- JavaScripts -->
 <script src="src/assets/js/jquery.min.js"></script>
 <script src="src/assets/js/jquery-migrate-3.4.0.min.js"></script>
 <script src="src/assets/js/bootstrap.min.js"></script>

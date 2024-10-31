@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Title -->
-  <title>Badam - Digital Agency Bootstrap 5 Template Documentation</title>
+  <title>Fincan - Coffee Shop Bootstrap 5 Template</title>
 
   <link rel="stylesheet" href="css/normalize.min.css">
   <link rel="stylesheet" href="css/foundation.css">
@@ -29,7 +29,7 @@
       <div id="sidebar" class="large-3 columns">
 
         <div class="sticky">
-            <div class="sidebar-logo">Badam Navigation</div>
+            <div class="sidebar-logo">Fincan Navigation</div>
           <ol>
             <li>
               <a href="#read-first" class="read-first active">Read First</a>
@@ -81,13 +81,13 @@
           <div class="row">
             <div class="large-centered columns">
               <div class="name">
-                <h3>Badam - Digital Agency Bootstrap 5 Template <span>v2.0</span></h3>
+                <h3>Fincan - Coffee Shop Bootstrap 5 Template <span>v1.0</span></h3>
                 <p>Premium HTML Template Documentation</p>
               </div>
 
               <ul class="meta">
-                <li><strong>Name:</strong> Badam</li>
-                <li><strong>Version:</strong> v2.0.0</li>
+                <li><strong>Name:</strong> Fincan</li>
+                <li><strong>Version:</strong> v1.0.0</li>
                 <li>
                   <strong>Author: </strong> 
                   <a 
@@ -101,7 +101,7 @@
                 <li>
                   <strong>Live Preview: </strong> 
                   <a 
-                    href="https://badamagency.netlify.app/"
+                    href="https://fincan.netlify.app/"
                     target="_blank" 
                     rel="noopener noreferrer"
                   >
@@ -113,7 +113,7 @@
                 </li>
               </ul>
 
-              <p>Thank you for purchasing <code>Badam</code> Digital Agency Bootstrap 5 Template. <br> You can find the detailed information about the template in this document. <br> If you have any questions that are beyond the scope of this help
+              <p>Thank you for purchasing <code>Fincan</code> Coffee Shop Bootstrap 5 Template. <br> You can find the detailed information about the template in this document. <br> If you have any questions that are beyond the scope of this help
                 file, <br> please feel free to email via the <a href="https://themeforest.net/user/alissio" target="_blank">Profile page</a>.</p>
             </div>
           </div>
@@ -122,13 +122,13 @@
         <section id="introduction" class="section">
 
           <h1 class="section-title"><span>1.</span> Introduction</h1>
-          <p class="lead">You are a shining owner of a regular license based on Digital Agency Responsive Bootstrap v5 HTML Template.
+          <p class="lead">You are a shining owner of a regular license based on Coffee Shop Bootstrap 5 Template.
           </p>
-          <p>We would like to thank you for choosing <code>Badam</code> Digital Agency Bootstrap 5 Template and for being our loyal customer.
+          <p>We would like to thank you for choosing <code>Fincan</code> Coffee Shop Bootstrap 5 Template and for being our loyal customer.
           <br> You are entitled to get free updates to this product + exceptional support (as per market policy) from the author directly.</p>
-          <p>We made Badam from the ground-up with flexibility in mind. <br>
-          Each element of Badam is extremely customizable, where you can make Badam to reflect your own branding styles.</p>
-          <p>The guide gives you detailed methodologies about how you can customize Badam and make it fit your brand perfectly!
+          <p>We made Fincan from the ground-up with flexibility in mind. <br>
+          Each element of Fincan is extremely customizable, where you can make Fincan to reflect your own branding styles.</p>
+          <p>The guide gives you detailed methodologies about how you can customize Fincan and make it fit your brand perfectly!
           <br> Please go through the documentation carefully to understand how this product is made and how to edit this properly. <br> Basic HTML and CSS knowledge is required to customize.</p>
         </section>
 
@@ -137,7 +137,7 @@
           <h2 class="section-title"><span>1.1.</span> What's Included</h2>
 
           <br>
-          <p>After purchasing Badam template on themeforest.net with your Envato account, go to your Download page.
+          <p>After purchasing Fincan template on themeforest.net with your Envato account, go to your Download page.
           <br>
           Do not directly upload the zip file you downloaded from ThemeForest. To begin, unzip the ThemeForest file you just downloaded which contains the following files:</p>
 
@@ -266,13 +266,14 @@
             </li>
             <li>
               <span class="d-block"><strong>Fonts</strong></span>
-              <a href="https://fonts.google.com/specimen/Open+Sans" rel="nofollow" target="_blank">Open Sans</a>
-              <a href="https://fonts.google.com/specimen/Teko" rel="nofollow" target="_blank">Teko</a>
-              <a href="https://fonts.google.com/specimen/Kanit" rel="nofollow" target="_blank">Kanit</a>
+              <a href="https://fonts.google.com/specimen/Arvo" rel="nofollow" target="_blank">Arvo</a><br>
+              <a href="https://fonts.google.com/specimen/Rubik" rel="nofollow" target="_blank">Rubik</a><br>
+              <a href="https://fonts.google.com/specimen/Poppins" rel="nofollow" target="_blank">Poppins</a>
             </li>
             <li>
               <span class="d-block"><strong>Icons</strong></span>
-              <a href="https://remixicon.com/" rel="nofollow" target="_blank">Remix Icon v4.3</a>
+              <a href="https://ionic.io/ionicons" rel="nofollow" target="_blank">IonIcons v4.4.6</a><br>
+              <a href="https://fontawesome.com/v5/search" rel="nofollow" target="_blank">Font Awesome v5.5.0</a>
             </li>
             <li>
               <span class="d-block"><strong>Images</strong></span>
@@ -357,7 +358,7 @@
 
           <pre class="css">
 
-  V. 2.0.0 – 18.10.2024
+  V. 1.0.0 – 31.10.2024
   - Initial release
 </pre>
         </section>
@@ -374,7 +375,7 @@
             <a href="https://themeforest.net/user/alissio" target="_blank" class="fs-2">Alissio</a>
 
             <footer class="mt-4">
-              <p>© Documentation - Badam</p>
+              <p>© Documentation - Fincan</p>
             </footer>
 
         </section>
